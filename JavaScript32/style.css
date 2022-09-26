@@ -1,0 +1,21 @@
+*{
+    transition: all .5s ease-in-out;
+}
+.colorButton 
+{
+    margin-right: 3px;
+    text-decoration: none;
+    color:black;
+    padding: 10px;
+    border-radius: 100px;
+    border: 10;
+    background: aliceblue;
+    border-color: black;    
+    outline: 0;
+    font-size: 16px;
+    transition: all .7s ease-in-out;
+}
+.colorButton:hover
+{
+    opacity: 0.3;
+}
