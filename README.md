@@ -3,5 +3,7 @@
 
 ## Links:
 [ ] [Color Generator]()
+
 [ ] [Quote Generator]()
+
 [ ] [Simple Counter]()
